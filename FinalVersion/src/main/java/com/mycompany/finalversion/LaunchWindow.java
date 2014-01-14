@@ -1,4 +1,4 @@
-package com.evilpiratebrotherhood.revolutionnarybot3;
+package com.mycompany.finalversion;
 
 import java.awt.Button;
 import java.awt.Frame;

@@ -17,8 +17,12 @@ public class main {
      */
     public static void main(String[] args) throws AWTException {
        // MaliciousRobot rob = new MaliciousRobot(500, 10);
-        LaunchWindow w = new LaunchWindow();
-        //w.setBot(rob);
-        //RURabelais ru = new RURabelais();
+       LaunchWindow w = new LaunchWindow();
+      
+       //RURabelais ru = new RURabelais();
+
+       MaliciousRobot rob = new MaliciousRobot(500, 10);
+        w.setBot(rob);
+
     }
 }
